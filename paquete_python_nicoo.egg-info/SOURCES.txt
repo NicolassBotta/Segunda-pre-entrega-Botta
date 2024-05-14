@@ -1,0 +1,8 @@
+setup.py
+paquete_python_nicoo/__init__.py
+paquete_python_nicoo/modulo1.py
+paquete_python_nicoo/modulo2.py
+paquete_python_nicoo.egg-info/PKG-INFO
+paquete_python_nicoo.egg-info/SOURCES.txt
+paquete_python_nicoo.egg-info/dependency_links.txt
+paquete_python_nicoo.egg-info/top_level.txt
